@@ -20,13 +20,13 @@
 ## :file_folder: 파일 구조
 ```
 ├── SpeedDating_predict_Project/
-   ├── Preprocessing.R
-   ├── Modeling_man.R
-   └── Modeling_woman.R
+   ├── Preprocessing.txt
+   ├── Modeling_man.txt
+   └── Modeling_woman.txt
 ```
- - `Preprocessing.R` 데이터를 불러오기, 파생변수 생성, 이상치 처리, 결측치 대체, 오버샘플링등의 전처리 내용이 담겨있는 파일입니다.
- - `Modeling_man.R` 전처리를 한 최종 데이터에서 남자, 여자로 데이터를 분할하여 모델링하며 남자 데이터를 활용한 모델링 파일입니다.
- - `Modeling_woman.R` 위와 같으며, 여자 데이터를 활용한 모델링 파일입니다.
+ - `Preprocessing.R` 데이터를 불러오기, 파생변수 생성, 이상치 처리, 결측치 대체, 오버샘플링등의 전처리 내용이 담겨있는 파일입니다. (R코드입니다.)
+ - `Modeling_man.R` 전처리를 한 최종 데이터에서 남자, 여자로 데이터를 분할하여 모델링하며 남자 데이터를 활용한 모델링 파일입니다. (R코드입니다.)
+ - `Modeling_woman.R` 위와 같으며, 여자 데이터를 활용한 모델링 파일입니다. (R코드입니다.)
  
  <br>
  
