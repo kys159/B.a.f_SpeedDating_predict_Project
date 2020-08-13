@@ -32,6 +32,12 @@
  
  <img src="https://user-images.githubusercontent.com/61648914/90143986-379dd400-ddb9-11ea-9a1a-feaba9f91968.png" width="50%" height="30%" title="px(픽셀) 크기 설정"><img src="https://user-images.githubusercontent.com/61648914/90144053-4ab0a400-ddb9-11ea-9367-16998aca612f.png" width="50%" height="30%" title="px(픽셀) 크기 설정">
  
+ <br>
+ 
+  ## :disappointed: 아쉬운점
+  - 두 번째 프로젝트였으나 여전히 데이터분할이나 모델링 과정에서 부족한 부분이 많았습니다. <br>
+  - overfitting이 된 것을 확인하였으나 어떠한 이유에서인지 확인할 수 없었습니다.  <br>
+  - 처음 공부한 여러 머신러닝 기법을 한 번에 적용시키려고 하니 모델링에 너무 많은 시간이 소요돼 데이터 전처리나 EDA과정이 미흡했습니다. <br>
  
  
  
