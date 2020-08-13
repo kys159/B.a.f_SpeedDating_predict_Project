@@ -30,7 +30,8 @@
  
  <br>
  
- <img src="https://user-images.githubusercontent.com/61648914/90143632-d118b600-ddb8-11ea-8b38-851a881d90aa.png" width="50%" height="30%" title="px(픽셀) 크기 설정"><img src="https://user-images.githubusercontent.com/61648914/90143913-1d63f600-ddb9-11ea-9f96-d9416f2b3ddc.png" width="50%" height="30%" title="px(픽셀) 크기 설정">
+ <img src="https://user-images.githubusercontent.com/61648914/90143986-379dd400-ddb9-11ea-9a1a-feaba9f91968.png" width="50%" height="30%" title="px(픽셀) 크기 설정"><img src="https://user-images.githubusercontent.com/61648914/90144053-4ab0a400-ddb9-11ea-9367-16998aca612f.png" width="50%" height="30%" title="px(픽셀) 크기 설정">
+ 
  
  
  
